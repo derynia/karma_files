@@ -1,18 +1,18 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "name": "Yourself",
     "nameRU": "Себя",
     "nameUA": "Себе"
   },
   {
-    "id": "2",
+    "id": 2,
     "name": "Others",
     "nameRU": "Других",
     "nameUA": "Інших"
   },
   {
-    "id": "3",
+    "id": 3,
     "name": "World, nature and animals",
     "nameRU": "Мира, природы, животных",
     "nameUA": "Світу, природи, тварин"
