@@ -1,0 +1,782 @@
+[
+  {
+    "id": "1",
+    "name": "Sports",
+    "points": "300",
+    "nameRU": "Спорт",
+    "nameUA": "Спорт",
+    "categoryId": "1",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "2",
+    "name": "Healthy food",
+    "points": "300",
+    "nameRU": "Здоровая пища",
+    "nameUA": "Здорове харчування",
+    "categoryId": "1",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "3",
+    "name": "Care about own health and outlook",
+    "points": "400",
+    "nameRU": "Забота о своём здоровье и внешности",
+    "nameUA": "Догляд за власним здоровʼям та зовнішністю",
+    "categoryId": "1",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "4",
+    "name": "Spiritual practices",
+    "points": "600",
+    "nameRU": "Духовные практики",
+    "nameUA": "Духовні практики",
+    "categoryId": "1",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "5",
+    "name": "Meidation",
+    "points": "400",
+    "nameRU": "Медитация",
+    "nameUA": "Медитація",
+    "categoryId": "1",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "6",
+    "name": "Prayer",
+    "points": "400",
+    "nameRU": "Молитва",
+    "nameUA": "Молитва",
+    "categoryId": "1",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "7",
+    "name": "Intellectual self improvement",
+    "points": "500",
+    "nameRU": "Интеллектуальнок саморазвитие",
+    "nameUA": "Інтелектуальний саморозвиток",
+    "categoryId": "1",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "8",
+    "name": "Positive thinking",
+    "points": "400",
+    "nameRU": "Настройка на позитив",
+    "nameUA": "Настроювання себе на позитив",
+    "categoryId": "1",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "9",
+    "name": "Communication with positive people",
+    "points": "400",
+    "nameRU": "Общение с позитивными людьми",
+    "nameUA": "Спілкування з позитивними людьми",
+    "categoryId": "1",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "10",
+    "name": "Fight agains negative thoughts and desires",
+    "points": "400",
+    "nameRU": "Борьба с негативными мыслями и желаниями",
+    "nameUA": "Боротьба з негативнимі емоціями",
+    "categoryId": "1",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "11",
+    "name": "Forgivness for own misstakes",
+    "points": "500",
+    "nameRU": "Искреннее прощение за собственные ошибки",
+    "nameUA": "Щире пробачення себе за власні помилки",
+    "categoryId": "1",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "12",
+    "name": "Forgivness of others",
+    "points": "600",
+    "nameRU": "Прощение других за обиды",
+    "nameUA": "Пробачення інших за образи",
+    "categoryId": "1",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "13",
+    "name": "Spending time outdoors",
+    "points": "400",
+    "nameRU": "Время на природе",
+    "nameUA": "Час на природі",
+    "categoryId": "1",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "14",
+    "name": "Thruth speaking",
+    "points": "400",
+    "nameRU": "Говорить правду",
+    "nameUA": "Казати правду",
+    "categoryId": "1",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "15",
+    "name": "Feeling of gratitude for all good in life",
+    "points": "500",
+    "nameRU": "Испытывать чувство радости и  благодарность за все хорошее в своей жизни",
+    "nameUA": "Відчувати поучаття радості та вдяки за все добре у власному житті",
+    "categoryId": "1",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "16",
+    "name": "Love and love seeking",
+    "points": "700",
+    "nameRU": "Любовь и поиски любви",
+    "nameUA": "Любити, шукати любов",
+    "categoryId": "1",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "17",
+    "name": "Not caring about own health",
+    "points": "400",
+    "nameRU": "Остутсиве заботы о здоровье",
+    "nameUA": "Не піклуваняня про власне здоровʼя",
+    "categoryId": "1",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "18",
+    "name": "Not making sports",
+    "points": "300",
+    "nameRU": "Без спорта",
+    "nameUA": "Без спорту",
+    "categoryId": "1",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "19",
+    "name": "Eating junkfood",
+    "points": "300",
+    "nameRU": "Вредная еда",
+    "nameUA": "Шкілдлива їжа",
+    "categoryId": "1",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "20",
+    "name": "Bad habits",
+    "points": "500",
+    "nameRU": "Поддаться вредным привычкам",
+    "nameUA": "Шкідливі звички",
+    "categoryId": "1",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "21",
+    "name": "Smoking",
+    "points": "500",
+    "nameRU": "Курение",
+    "nameUA": "Куріння",
+    "categoryId": "1",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "22",
+    "name": "Alcohol drinking",
+    "points": "500",
+    "nameRU": "Употребление алкоголя",
+    "nameUA": "Споживання алкоголю",
+    "categoryId": "1",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "23",
+    "name": "Drugs using",
+    "points": "700",
+    "nameRU": "Употребление наркотиков",
+    "nameUA": "Споживання наркотиків",
+    "categoryId": "1",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "24",
+    "name": "Falling in despair",
+    "points": "600",
+    "nameRU": "Отчаяние",
+    "nameUA": "Відчай",
+    "categoryId": "1",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "25",
+    "name": "Making harm yourself",
+    "points": "800",
+    "nameRU": "Нанесение вреда себе",
+    "nameUA": "Спричинення шкоди собі",
+    "categoryId": "1",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "26",
+    "name": "Hate",
+    "points": "700",
+    "nameRU": "Ненависть",
+    "nameUA": "Ненавість",
+    "categoryId": "1",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "27",
+    "name": "Communication with toxic people",
+    "points": "400",
+    "nameRU": "Общение с токсичными людьми",
+    "nameUA": "Спілкування з токсичними людьми",
+    "categoryId": "1",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "28",
+    "name": "Lazyness",
+    "points": "400",
+    "nameRU": "Лень",
+    "nameUA": "Лінь",
+    "categoryId": "1",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "29",
+    "name": "Wasting own time",
+    "points": "400",
+    "nameRU": "Трата времени впустую",
+    "nameUA": "Марта трата часу",
+    "categoryId": "1",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "30",
+    "name": "Orientation on negative",
+    "points": "400",
+    "nameRU": "Ориентация на негатив",
+    "nameUA": "Орієнтація на негатів",
+    "categoryId": "1",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "31",
+    "name": "Comparing yourself to others",
+    "points": "400",
+    "nameRU": "Сравнение с другими",
+    "nameUA": "Порівняння себе з іншими",
+    "categoryId": "1",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "32",
+    "name": "Envy",
+    "points": "500",
+    "nameRU": "Зависть",
+    "nameUA": "Заздрість",
+    "categoryId": "1",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "33",
+    "name": "Swearing",
+    "points": "400",
+    "nameRU": "Сквернословие",
+    "nameUA": "Сквернослівʼя",
+    "categoryId": "1",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "34",
+    "name": "Selfless help to others",
+    "points": "800",
+    "nameRU": "Бесокрыстная помощь другому",
+    "nameUA": "Безкорислива допомога",
+    "categoryId": "2",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "35",
+    "name": "Donation to charity",
+    "points": "800",
+    "nameRU": "Благотворительность",
+    "nameUA": "Пожертва на благодійність",
+    "categoryId": "2",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "36",
+    "name": "Volunteering",
+    "points": "800",
+    "nameRU": "Волонтёрство",
+    "nameUA": "Волонтерство",
+    "categoryId": "2",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "37",
+    "name": "Inspired others to optimism and positive things",
+    "points": "500",
+    "nameRU": "Вдохновление людей на позитив и оптимизм",
+    "nameUA": "Натхнення інших на позитив",
+    "categoryId": "2",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "38",
+    "name": "Sincere sympathy",
+    "points": "400",
+    "nameRU": "Искреннее сочувствие",
+    "nameUA": "Щире співчуття",
+    "categoryId": "2",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "39",
+    "name": "Caring of others",
+    "points": "400",
+    "nameRU": "Проявление любви к другим людям",
+    "nameUA": "Вияв любові до інших",
+    "categoryId": "2",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "40",
+    "name": "Other people support",
+    "points": "500",
+    "nameRU": "Поддержка других людей",
+    "nameUA": "Підтримка інших",
+    "categoryId": "2",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "41",
+    "name": "Openness to new acquaintance",
+    "points": "300",
+    "nameRU": "Открытость к новым знакомствам",
+    "nameUA": "Відритість до нових знайомств",
+    "categoryId": "2",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "42",
+    "name": "Sharing of knowledge witth others",
+    "points": "400",
+    "nameRU": "Передача знаний другим людям",
+    "nameUA": "Переданная знань іншим людям",
+    "categoryId": "2",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "43",
+    "name": "Bringing people together",
+    "points": "400",
+    "nameRU": "Объединение людей",
+    "nameUA": "Обʼєднання людей",
+    "categoryId": "2",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "44",
+    "name": "Spending time with close people",
+    "points": "500",
+    "nameRU": "Время с близкими",
+    "nameUA": "Час з близькими",
+    "categoryId": "2",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "45",
+    "name": "Gratitude",
+    "points": "500",
+    "nameRU": "Благодарность людям",
+    "nameUA": "Подяка людям",
+    "categoryId": "2",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "46",
+    "name": "Sincere joy for others",
+    "points": "400",
+    "nameRU": "Искренняя радость за других",
+    "nameUA": "Щира радість за інших",
+    "categoryId": "2",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "47",
+    "name": "Wishing all good to others",
+    "points": "400",
+    "nameRU": "Пожелание добра людям",
+    "nameUA": "Побажання добра іншим",
+    "categoryId": "2",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "48",
+    "name": "Trying to understand and not to judge others",
+    "points": "400",
+    "nameRU": "Попытка понять и не осуждать других",
+    "nameUA": "Спроба зрозуміти і не засуджувати інших",
+    "categoryId": "2",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "49",
+    "name": "Making harm to another person",
+    "points": "800",
+    "nameRU": "Нанесение вреда другом",
+    "nameUA": "Заподіяння шкоди іншим",
+    "categoryId": "2",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "50",
+    "name": "Killing",
+    "points": "10000",
+    "nameRU": "Убийство",
+    "nameUA": "Вбивство",
+    "categoryId": "2",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "51",
+    "name": "Stealing",
+    "points": "700",
+    "nameRU": "Украл",
+    "nameUA": "Крадіжка",
+    "categoryId": "2",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "52",
+    "name": "Betrayal",
+    "points": "500",
+    "nameRU": "Предательство",
+    "nameUA": "Зрада",
+    "categoryId": "2",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "53",
+    "name": "Judgement",
+    "points": "400",
+    "nameRU": "Осуждание",
+    "nameUA": "Осуд",
+    "categoryId": "2",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "54",
+    "name": "Criticism",
+    "points": "400",
+    "nameRU": "Критика",
+    "nameUA": "Критика",
+    "categoryId": "2",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "55",
+    "name": "Deception",
+    "points": "500",
+    "nameRU": "Обман",
+    "nameUA": "Обман",
+    "categoryId": "2",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "56",
+    "name": "Gloat",
+    "points": "400",
+    "nameRU": "Злорадство",
+    "nameUA": "Злорадність",
+    "categoryId": "2",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "57",
+    "name": "Jelosy",
+    "points": "400",
+    "nameRU": "Ревность",
+    "nameUA": "Ревнощі",
+    "categoryId": "2",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "58",
+    "name": "Wishing bad",
+    "points": "600",
+    "nameRU": "Пожелание зла",
+    "nameUA": "Побажання зла",
+    "categoryId": "2",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "59",
+    "name": "Help denial",
+    "points": "600",
+    "nameRU": "Отказ в помощи",
+    "nameUA": "Відмова у допомозі",
+    "categoryId": "2",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "60",
+    "name": "Not forgiving",
+    "points": "700",
+    "nameRU": "Не прощение",
+    "nameUA": "Не прощення",
+    "categoryId": "2",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "61",
+    "name": "Not keeping secret",
+    "points": "400",
+    "nameRU": "Не сохранение тайны",
+    "nameUA": "Не зберігання таємниці",
+    "categoryId": "2",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "62",
+    "name": "Gossiping",
+    "points": "400",
+    "nameRU": "Сплетни",
+    "nameUA": "Плітки",
+    "categoryId": "2",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "63",
+    "name": "Scandaling",
+    "points": "500",
+    "nameRU": "Скандал",
+    "nameUA": "Скандал",
+    "categoryId": "2",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "64",
+    "name": "Helping homless animal",
+    "points": "800",
+    "nameRU": "Помощь бездомному животному",
+    "nameUA": "Допомога диким тваринам",
+    "categoryId": "3",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "65",
+    "name": "Not disturbing wild animanl",
+    "points": "400",
+    "nameRU": "Бережное отношение к диким животным",
+    "nameUA": "Бережливе ставлення до диких тварин",
+    "categoryId": "3",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "66",
+    "name": "Making donation to wild animal fund",
+    "points": "800",
+    "nameRU": "Пожертвование в фонд защиты животных",
+    "nameUA": "Пожертва у фонд захисту тварин",
+    "categoryId": "3",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "67",
+    "name": "Taking participation in nature cleaning",
+    "points": "600",
+    "nameRU": "Участие в очистке природы",
+    "nameUA": "Участь у очищенны природи",
+    "categoryId": "3",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "68",
+    "name": "Garbage sorting",
+    "points": "500",
+    "nameRU": "Сортировка своего мусора",
+    "nameUA": "Сортування свого сміття",
+    "categoryId": "3",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "69",
+    "name": "Planting plants",
+    "points": "500",
+    "nameRU": "Участие в озеленении",
+    "nameUA": "Участь у озелененні",
+    "categoryId": "3",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "70",
+    "name": "Using of renewal sources of energy",
+    "points": "400",
+    "nameRU": "Использование возобновляемых источников энергии",
+    "nameUA": "Використання відновлюваних джерел енергії",
+    "categoryId": "3",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "71",
+    "name": "Sharing knowldge of nature care",
+    "points": "500",
+    "nameRU": "Просвещение других о необходимости беречь природу",
+    "nameUA": "Просвіта людей про необхідність захисту природи",
+    "categoryId": "3",
+    "isGood": "true",
+    "isActive": "true"
+  },
+  {
+    "id": "1",
+    "name": "Making harm to an animal",
+    "points": "800",
+    "nameRU": "Нанесение вреда животному",
+    "nameUA": "Спричинення шкоди тварині",
+    "categoryId": "3",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "2",
+    "name": "Making harm to nature",
+    "points": "700",
+    "nameRU": "Нанесение вреда окружающей среде",
+    "nameUA": "Спричинення шкоді природі",
+    "categoryId": "3",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "3",
+    "name": "Killing of an animal",
+    "points": "1000",
+    "nameRU": "Убийство животного",
+    "nameUA": "Вбивство тварини",
+    "categoryId": "3",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "4",
+    "name": "Cutting a tree or killing a plant",
+    "points": "600",
+    "nameRU": "Уничтожение дерева или другого растения",
+    "nameUA": "Знищення дерева або інших рослин",
+    "categoryId": "3",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "5",
+    "name": "Water polllution",
+    "points": "700",
+    "nameRU": "Загрязнение водоёмов",
+    "nameUA": "Забрудення водойм",
+    "categoryId": "3",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "6",
+    "name": "Wearing natural fur and leather",
+    "points": "400",
+    "nameRU": "Ношение натурального меха и кожи",
+    "nameUA": "Вдягання натуральних мехів або шкіри",
+    "categoryId": "3",
+    "isGood": "false",
+    "isActive": "true"
+  },
+  {
+    "id": "7",
+    "name": "Scaring and disturbing animals",
+    "points": "400",
+    "nameRU": "Пугание диких животных",
+    "nameUA": "Лякання диких тварин",
+    "categoryId": "3",
+    "isGood": "false",
+    "isActive": "true"
+  }
+]
