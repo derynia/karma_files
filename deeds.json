@@ -1,11 +1,11 @@
 [
     {
-        "id": 35,
-        "name": "Sports",
-        "points": 300,
-        "nameRU": "Спорт",
-        "nameUA": "Спорт",
-        "categoryId": 1,
+        "id": 1,
+        "name": "Donation to charity",
+        "points": 800,
+        "nameRU": "Благотворительность",
+        "nameUA": "Пожертва на благодійність",
+        "categoryId": 2,
         "isGood": true,
         "isActive": true
     },
@@ -340,12 +340,12 @@
         "isActive": true
     },
     {
-        "id": 1,
-        "name": "Donation to charity",
-        "points": 800,
-        "nameRU": "Благотворительность",
-        "nameUA": "Пожертва на благодійність",
-        "categoryId": 2,
+        "id": 35,
+        "name": "Sports",
+        "points": 300,
+        "nameRU": "Спорт",
+        "nameUA": "Спорт",
+        "categoryId": 1,
         "isGood": true,
         "isActive": true
     },
@@ -710,7 +710,7 @@
         "isActive": true
     },
     {
-        "id": 1,
+        "id": 73,
         "name": "Making harm to an animal",
         "points": 800,
         "nameRU": "Нанесение вреда животному",
@@ -720,7 +720,7 @@
         "isActive": true
     },
     {
-        "id": 2,
+        "id": 74,
         "name": "Making harm to nature",
         "points": 700,
         "nameRU": "Нанесение вреда окружающей среде",
@@ -730,7 +730,7 @@
         "isActive": true
     },
     {
-        "id": 3,
+        "id": 75,
         "name": "Killing of an animal",
         "points": 1000,
         "nameRU": "Убийство животного",
@@ -740,7 +740,7 @@
         "isActive": true
     },
     {
-        "id": 4,
+        "id": 76,
         "name": "Cutting a tree or killing a plant",
         "points": 600,
         "nameRU": "Уничтожение дерева или другого растения",
@@ -750,7 +750,7 @@
         "isActive": true
     },
     {
-        "id": 5,
+        "id": 77,
         "name": "Water polllution",
         "points": 700,
         "nameRU": "Загрязнение водоёмов",
@@ -760,7 +760,7 @@
         "isActive": true
     },
     {
-        "id": 6,
+        "id": 78,
         "name": "Wearing natural fur and leather",
         "points": 400,
         "nameRU": "Ношение натурального меха и кожи",
@@ -770,7 +770,7 @@
         "isActive": true
     },
     {
-        "id": 7,
+        "id": 79,
         "name": "Scaring and disturbing animals",
         "points": 400,
         "nameRU": "Пугание диких животных",
