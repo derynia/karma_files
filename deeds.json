@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": 35,
         "name": "Sports",
         "points": 300,
         "nameRU": "Спорт",
@@ -340,7 +340,7 @@
         "isActive": true
     },
     {
-        "id": 35,
+        "id": 1,
         "name": "Donation to charity",
         "points": 800,
         "nameRU": "Благотворительность",
