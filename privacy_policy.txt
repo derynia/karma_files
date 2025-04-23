@@ -1,0 +1,31 @@
+Privacy Policy
+
+Effective Date: 2025-04-23
+
+Thank you for using Karma App!
+Your privacy is important to us. This Privacy Policy explains how we handle your information when you use our mobile application, available on Google Play.
+
+1. No Personal Data Collection
+We do not collect, store, or share any personal data from users.
+All information you enter into the app — such as your good or bad deeds — is stored locally on your device and never sent to our servers or any third parties.
+
+2. Internet Access
+The app requires an internet connection to refresh internal app data (such as motivational content, quotes, or charity-related updates).
+However, this process does not involve sending any personal or user-generated data over the internet.
+
+3. Local Data Storage
+All your inputs are securely stored on your device. We do not use cloud storage or any remote servers to store your data.
+
+4. No Third-Party Services
+This app does not integrate any third-party analytics, advertising services, or tracking tools.
+
+5. Your Control
+You have complete control over the information you input into the app.
+Deleting the app will permanently remove all locally stored data.
+
+6. Policy Updates
+We may update this Privacy Policy occasionally. Any changes will be posted within the app or on the app’s Google Play listing.
+
+7. Contact
+If you have any questions about this Privacy Policy, please contact us at:
+romdz5927@gmail.com
