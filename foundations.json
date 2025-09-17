@@ -39,20 +39,28 @@
   },
   {
     "id": 3,
-    "name": "Petro Petrenko",
-    "nameRU": "Пётр Петренко",
-    "nameUA": "Петро Петренко",
-    "description": "Medical diagnosis: Sever heart decease. ",
-    "descriptionRU": "Медицинский диагноз: Тяжёлое сердечное заболевание.",
-    "descriptionUA": "Медичний діагноз: Важка сердцева хвороба.",
-    "web": "https://www.facebook.com/permalink.php?story_fbid=pfbid026QDieFaofSsJPUseiSJSMbWRiT3Txd4YJ7idbhLdAaf1eixJinr78ZbY72DPiYTxl&id=100093532098621&__cft__[0]=AZWw28gWhWRjGA9Y2va0hqLup-TeDFT0eInKzhfOg_CeBsTVZb8fpay_P6ZzuRjoZXqGxmEhRF_d2juCnqVDbSBJgoj8mVbowKNEPvoo6STIw6EiHR5eJIBt-0AdcGtGPVJChxeHf_jOYAKQzzL9mzbaieahbi3QMuSdOx5RI3jtcK4SVFCp5jg5pdqgx-ZJhCI&__tn__=%2CO%2CP-R",
-    "facebook": "",
+    "name": "Veronika Dochiia",
+    "nameRU": "Вероника Дочия",
+    "nameUA": "Вероніка Дочія",
+    "description": "My name is Veronika, I am 13 years old. I live in Kharkiv — a city that faces daily shelling. The war has changed everything: our homes, streets, and ordinary daily life. We try to live as before, but fear and uncertainty have become our constant companions. I have diabetes. This disease is sneaky and dangerous; it can take a life if blood sugar is not carefully monitored and medicine is not taken. Every day is a fight — monitoring my food, taking injections, and living with constant anxiety. The war has made it even harder to take care of myself, and medicine is expensive and not always easy to get.  I need help: medicine and support so I can live and grow despite these hardships. The war destroys our homes, fear follows us every day, and diabetes makes each day even more dangerous. If you want to help, please contact my mother at: +380 XX XXX XX XX or use the bank details for a transfer:
+\nAccount: UA XX XXXX XXXX XXXX XXXX XXXX XXXX
+\nBank: [Bank Name]
+\nRecipient: [Recipient Name]
+\nI am deeply grateful to everyone who can help me get through this difficult time. Your support is a chance for life and hope for a child living through war.",
+    "descriptionRU": "Медицинский диагноз: Сахарный диабет 1-го типа.",
+    "descriptionUA": "Мене звати Вероніка, мені 13 років. Я живу у Харкові — місті, яке щодня переживає страшні обстріли. Війна змінила все: наші будинки, вулиці, звичайні буденні речі. Ми намагаємося жити як раніше, але страх і невизначеність стали нашими постійними супутниками. Я хворію на цукровий діабет. Це хвороба, яка непомітно та підступно може забрати життя, якщо не стежити за рівнем цукру та не приймати ліки. Кожен день для мене — це боротьба, контроль їжі, уколів і постійна тривога. Через війну стало ще складніше доглядати за собою, а ліки дорогі і не завжди легко отримати. Мені потрібна допомога: ліки, підтримка, щоб я могла жити і рости попри всі ці труднощі. Війна руйнує наші будинки, страх переслідує нас щодня, а діабет робить кожен день ще небезпечнішим.  Якщо ви хочете допомогти, будь ласка, зв’яжіться з моєю мамою за телефоном: +380 XX XXX XX XX або використайте реквізити для переказу:
+\nРахунок: UA XX XXXX XXXX XXXX XXXX XXXX XXXX
+\nБанк: [назва банку]
+\nОтримувач: [ім’я отримувача]
+\nЯ щиро вдячна кожному, хто може допомогти мені пережити цей важкий час. Ваша підтримка — це шанс на життя та надію для дитини серед війни. ",
+    "web": "https://www.facebook.com/profile.php?id=61578568051679&v=info&edit_info=all",
+    "facebook": "https://www.facebook.com/profile.php?id=61578568051679&v=info&edit_info=all",
     "instagram": "",
-    "phone": "+38060322223",
-    "telegram": "@type1",
-    "whatsapp": "+38060322223",
-    "email": "veryill@gmail.com",
-    "pic": "https://thumbs.dreamstime.com/z/sick-23198200.jpg",
+    "phone": "+380973599519",
+    "telegram": "",
+    "whatsapp": "+380973599519",
+    "email": "hodes79@gmail.com",
+    "pic": "https://drive.google.com/file/d/19b0Je1_T-__7bcg98AEzkQSk_RJELBn7/view?usp=drive_link",
     "isPerson": true,
     "isActive": true
   },
